@@ -86,3 +86,71 @@
 ---
 
 **Output:** `Consumer_Spending_Clean.xlsx` (validated, Tableau-ready, long format)
+
+Next step, 
+# Consumer Spending Dashboard
+
+## Overview
+
+After preparing and cleaning the dataset in Excel, I shifted to Tableau to build **interactive dashboards** and extract insights. To make the analysis more engaging, I framed it around a clear narrative:
+
+**Data Story:** *The COVID-19 Consumer Spending Recovery*
+
+---
+
+## The Narrative Arc
+
+**🎯 Main Question:** How did consumer spending patterns change during COVID-19, and which states/categories recovered fastest?
+
+### Chapter 1: The Initial Impact (Jan–Apr 2020)
+
+* Massive drops across all categories.
+* **Key insight:** Arts/Entertainment vs. Grocery had contrasting impacts.
+* **Geographic angle:** Urban states (NY, MA) suffered more.
+
+### Chapter 2: The Recovery Pattern (2020–Present)
+
+* Different recovery speeds by category.
+* **Key insight:** Essential vs. non-essential spending trends.
+* **Time angle:** When did states return to baseline (0% change)?
+
+### Chapter 3: The New Normal (Recent Trends)
+
+* Some categories rose above pre-COVID levels.
+* **Key insight:** Permanent behavior changes vs. temporary shocks.
+* **State angle:** Which states show strongest consumer confidence?
+
+### Chapter 4: Category Winners & Losers
+
+* Certain sectors never fully recovered, others boomed.
+* **Key insight:** Online retail growth vs. entertainment decline.
+* **Future angle:** Implications for businesses post-COVID.
+
+---
+
+## Dashboard Structure
+
+**Page 1: Executive Overview**
+
+* KPIs: Current vs. pre-COVID spending
+* US map: State-level recovery status
+* Category recovery timeline
+
+**Page 2: Geographic Deep Dive**
+
+* State comparison charts
+* Regional/urban vs. rural patterns
+
+**Page 3: Category Analysis**
+
+* Winners vs. losers ranking
+* Essential vs. non-essential spending trends
+* Seasonal patterns
+
+**Page 4: Time Evolution**
+
+* Monthly spending trends
+* Recovery milestone timeline
+* Volatility analysis
+
+
